@@ -8,17 +8,17 @@ Pour utiliser les notebooks ou les données, vous pouvez cloner le répertoire G
 
 Pour utiliser les notebooks, veuillez installer Anaconda pour python 3.
 
-## Organisation des notebooks
+## Organisation des Notebooks
 
-[Introduction à python](/notebooks/01_introduction_python.ipynb)
+[Introduction à python](/Notebooks/01_introduction_python.ipynb)
 
-[Introduction à numpy](/notebooks/02_numpy.ipynb)
+[Introduction à numpy](/Notebooks/02_numpy.ipynb)
 
-[La préparation des données](/notebooks/03_pandas.ipynb)
+[La préparation des données](/Notebooks/03_pandas.ipynb)
 
-[La visualisation des données](/notebooks/04_dataviz.ipynb)
+[La visualisation des données](/Notebooks/04_dataviz.ipynb)
 
-[Le machine learning](/notebooks/05_machine_learning.ipynb)
+[Le machine learning](/Notebooks/05_machine_learning.ipynb)
 
 ## Auteur
 
